@@ -19,6 +19,7 @@ FAREWELL_PATTERNS = [
     "Nos vemos en el próximo menú",
     "La semana que viene",
     "ojo con la semana que viene",
+    "Esperamos que esta semana",
 ]
 
 WHATSAPP_PATTERNS = [
